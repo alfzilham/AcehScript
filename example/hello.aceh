@@ -1,0 +1,57 @@
+// contoh dasar AcehScript
+ci nan = "Aceh";
+peuleumah("Selamat dari " + nan);
+
+peugot_baro sapa(nan) {
+    balek_bakset "Assalamualaikum, " + nan + "!";
+}
+
+peuleumah(sapa("dunia"));
+
+// percabangan
+ci umu = 20;
+miseu (umu >= 18) {
+    peuleumah("Ka rayek");
+} miseu_han (umu >= 13) {
+    peuleumah("Remaja");
+} han {
+    peuleumah("Kanak-kanak");
+}
+
+// perulangan
+keu (ci i = 0; i < 5; i++) {
+    peuleumah("Loop ke-" + i);
+}
+
+// array & for...of
+ci buah = ["mangga", "pisang", "durian"];
+keu (ci b daripada buah) {
+    peuleumah(b);
+}
+
+// object & for...in
+hitong urang = { nan: "Alfiz", asai: "Aceh Besar" };
+keu (ci k dalam urang) {
+    peuleumah(k + ": " + urang[k]);
+}
+
+// try-catch
+tre {
+    rhoem baro Error("Contoh error");
+} drop (e) {
+    error_lagoe("Teuangkap: " + e.message);
+} akhejih {
+    peuleumah("Seleusoe tre-drop");
+}
+
+// class
+local Ureung {
+    constructor(nan) {
+        nyoe.nan = nan;
+    }
+    sapa() {
+        balek_bakset "Nan lon " + nyoe.nan;
+    }
+}
+hitong u = baro Ureung("Fiz");
+peuleumah(u.sapa());
