@@ -40,35 +40,35 @@ Lihat `example/hello.aceh` untuk contoh lengkap (variabel, fungsi, percabangan, 
 
 ## Kamus Kata Kunci
 
-| AcehScript | JavaScript | AcehScript | JavaScript |
-|---|---|---|---|
-| mulog | var | tre | try |
-| ci | let | drop | catch |
-| hitong | const | akhejih | finally |
-| miseu | if | rhoem | throw |
-| han | else | peutameng | import |
-| miseu_han | else if | peutubiet | export |
-| geulantoe | switch | dari | from |
-| kasus | case | seubago | as |
-| biasa | default | lagena | default (export) |
-| peuhanco | break | periksa | typeof |
-| keu | for | contoh_dari | instanceof |
-| selama | while | hapoh | delete |
-| pubuet | do | soh | void |
-| lanjut | continue | dalam | in |
-| daripada | of | peuleumah | console.log |
-| peugot_baro | function | error_lagoe | console.error |
-| balek_bakset | return | ngen | with |
-| peusinkron | async | kraleub | debugger |
-| preh | await | butoi | true |
-| hase | yield | salah | false |
-| local | class | hana_sapeu_na | null |
-| meuluah | extends | hanjeut_takira | undefined |
-| hayeu | super | ken_numboi | NaN |
-| baro | new | statis | static |
-| nyoe | this | cok | get |
-| | | ato | set |
+| AcehScript   | JavaScript | AcehScript     | JavaScript       |
+| ------------ | ---------- | -------------- | ---------------- |
+| mulog        | var        | tre            | try              |
+| ci           | let        | drop           | catch            |
+| hitong       | const      | akhejih        | finally          |
+| miseu        | if         | rhoem          | throw            |
+| han          | else       | peutameng      | import           |
+| miseu_han    | else if    | peutubiet      | export           |
+| geulantoe    | switch     | dari           | from             |
+| kasus        | case       | seubago        | as               |
+| biasa        | default    | lagena         | default (export) |
+| peuhanco     | break      | periksa        | typeof           |
+| keu          | for        | contoh_dari    | instanceof       |
+| selama       | while      | hapoh          | delete           |
+| pubuet       | do         | soh            | void             |
+| lanjut       | continue   | dalam          | in               |
+| daripada     | of         | peuleumah      | console.log      |
+| peugot_baro  | function   | error_lagoe    | console.error    |
+| balek_bakset | return     | ngen           | with             |
+| peusinkron   | async      | kraleub        | debugger         |
+| preh         | await      | butoi          | true             |
+| hase         | yield      | salah          | false            |
+| local        | class      | hana_sapeu_na  | null             |
+| meuluah      | extends    | hanjeut_takira | undefined        |
+| hayeu        | super      | ken_numboi     | NaN              |
+| baro         | new        | statis         | static           |
+| nyoe         | this       | cok            | get              |
+|              |            | ato            | set              |
 
 ## Catatan
 
-Proyek ini dibuat sebagai media belajar/hiburan, terinspirasi dari proyek serupa seperti [jawascript](https://github.com/ernestoyoofi/jawascript) dan [jaksel-language](https://github.com/RioChndr/jaksel-language).
+Proyek ini dibuat sebagai media belajar/hiburan.
