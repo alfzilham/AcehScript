@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/image/preview-banner.png" alt="AcehScript Banner" width="100%">
+</p>
+
 # AcehScript
 
 Bahasa skrip berbasis Bahasa Aceh yang memiliki struktur sama persis dengan JavaScript, karena pada dasarnya hanya diterjemahkan (transpiled) menjadi JavaScript murni.
@@ -9,7 +13,7 @@ Ada satu file kamus (`lib/kamus.js`) yang memetakan kata kunci Bahasa Aceh ke ka
 ## Instalasi
 
 ```
-npm i -g .
+npm i -g acehscript
 ```
 
 Atau jalankan langsung tanpa install global:
