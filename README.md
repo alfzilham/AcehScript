@@ -73,6 +73,12 @@ Lihat `example/hello.aceh` untuk contoh lengkap (variabel, fungsi, percabangan, 
 | nyoe         | this       | cok            | get              |
 |              |            | ato            | set              |
 
-## Catatan
+## Ekstensi VS Code
 
-Proyek ini dibuat sebagai media belajar/hiburan.
+Untuk syntax highlighting berwarna dan custom file icon di VS Code, gunakan ekstensi resminya: [AcehScript-VSCode](https://github.com/alfzilham/AcehScript-VSCode).
+
+---
+
+## Lisensi
+
+Copyright (c) 2026 Alfiz. Dilisensikan di bawah [MIT License](LICENSE).
