@@ -1,0 +1,15 @@
+{
+  "name": "acehscript",
+  "version": "1.0.0",
+  "description": "Bahasa skrip berbasis Bahasa Aceh yang diterjemahkan menjadi JavaScript",
+  "main": "index.js",
+  "bin": {
+    "acehskrip": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js example/hello.aceh"
+  },
+  "keywords": ["aceh", "acehscript", "scripting-language", "transpiler"],
+  "author": "",
+  "license": "MIT"
+}
