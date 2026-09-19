@@ -46,7 +46,7 @@ Lihat `example/hello.aceh` untuk contoh lengkap (variabel, fungsi, percabangan, 
 
 | AcehScript   | JavaScript | AcehScript     | JavaScript       |
 | ------------ | ---------- | -------------- | ---------------- |
-| mulog        | var        | tre            | try              |
+| lagee        | var        | tre            | try              |
 | ci           | let        | drop           | catch            |
 | hitong       | const      | akhejih        | finally          |
 | miseu        | if         | rhoem          | throw            |
